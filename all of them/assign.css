@@ -1,0 +1,56 @@
+.social{
+  width: 200px;
+  padding: 0px;
+  border: none;
+  margin-bottom: 0px;
+}
+
+.search{
+  background-color: white;
+  border: none;
+  border-radius: 18px;
+  width: 550px;
+  height: 36px;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.15);
+  font-size: 13px;
+  margin-bottom: 15px;
+  padding-left: 15px;
+  margin-top: 15px;
+}
+
+.g-search{
+  border: none;
+  background-color: whitesmoke;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  text-align: center;
+  display: inline-block;
+  margin-left: 225px;
+}
+
+.lucky{
+  border: none;
+  background-color: whitesmoke;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  margin-top: 20px;
+  display: inline-block;
+  text-align: center;
+  margin-left: 6px;
+}
+
+.social-div{
+  text-align: center;
+}
+
+.search-div{
+  text-align: center;
+}
+
+.div{
+  text-align: center;
+}

@@ -1,0 +1,393 @@
+.one{
+  padding-bottom: 200px;
+}
+
+.first{
+width: 120px;
+padding-left: 10px;
+padding-right: 5px;
+padding-top: 10px;
+padding-bottom: 10px;
+margin-bottom: 10px;
+border-radius: 10px;
+border-style: solid;
+border-color: rgb(229, 221, 221);
+}
+
+.last{
+  width: 120px;
+  padding-left: 10px;
+  padding-right: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: rgb(229, 221, 221);
+}
+
+.mail{
+width: 270px;
+display: block;
+padding-left: 10px;
+padding-right: 0px;
+padding-top: 10px;
+padding-bottom: 10px;
+margin-bottom: 10px;
+border-radius: 10px;
+border-style: solid;
+border-color: rgb(229, 221, 221);
+}
+
+.sign{
+background-color: rgb(99, 99, 250);
+color: white;
+border: none;
+width: 280px;
+display: block;
+font-size: 15px;
+font-weight: bold;
+padding-left: 10px;
+padding-right: 0px;
+padding-top: 11px;
+padding-bottom: 11px;
+margin-bottom: 10px;
+border-radius: 10px;
+}
+
+.request{
+  font-size: 30px;
+  font-family: Arial;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.pickup{
+  display: block;
+  background-color: rgb(249, 247, 247);
+  border: none;
+  width: 260px;
+  padding-left: 10px;
+  padding-right: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-bottom: 7px;
+}
+
+.destination{
+  display: block;
+  background-color: rgb(249, 247, 247);
+  border: none;
+  width: 260px;
+  padding-left: 10px;
+  padding-right: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-bottom: 25px;
+}
+
+.now{
+  border: none;
+  background-color: black;
+  color: white;
+  font-size: 11px;
+  padding-left: 13px;
+  padding-right: 13px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  margin-bottom: 25px;
+  margin-right: 15px;
+}
+
+.later{
+  border: none;
+  background-color: rgb(249, 247, 247);
+  color: black;
+  font-size: 12px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  margin-bottom: 25px;
+  margin-right: 15px;
+}
+
+.red{
+  background-color: red;
+  width: 50px;
+  height: 50px;
+  border: none;
+  margin-bottom: 0px;
+}
+
+.green{
+  background-color: green;
+  width: 50px;
+  height: 50px;
+  border: none;
+  object-fit: cover;
+  border-radius: 25px;
+  margin-top: 15px;
+  margin-bottom: 25px;
+}
+
+.border{
+  width: 300px;
+  border-color: rgb(150, 150, 150);
+  border-width: 2px;
+  border-style: solid;
+  padding-bottom: 15px;
+  padding-left: 15px;
+  margin-left: 8px;
+}
+
+.black{
+  background-color: black;
+  width: 240px;
+  padding-bottom: 8px;
+  padding-top: 4px;
+  padding-left: 15px;
+  margin-left: 8px;
+  margin-bottom: 25px;
+  margin-top: 15px;
+}
+
+.install{
+  color: white;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.youtube{
+  color: white;
+  font-size: 11px;
+  width: 230px;
+}
+
+.div-one{
+  border-color: rgb(150, 150, 150);
+  border-width: 1px;
+  border-style: solid;
+  width: 150px;
+  margin-left: 15px;
+  margin-bottom: 25px;
+  display: inline-block;
+  vertical-align: top;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.15);
+}
+
+.oliver{
+  font-size: 14px;
+  font-weight: bold;
+  margin-bottom: 0px;
+  margin-left: 5px;
+}
+
+.us-dollars{
+  color: rgb(150, 150, 150);
+  font-size: 12px;
+  margin-bottom: 8px;
+  margin-left: 0;
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 4px;
+}
+
+.cart-one{
+  background-color: rgb(78, 78, 230);
+  color: white;
+  border: none;
+  font-size: 12px;
+  border-radius: 2px;
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-bottom: 5px;
+  margin-left: 5px;
+}
+
+.first-image{
+  width: 150px;
+  object-fit: contain;
+  object-position: top;
+}
+
+.div-two{
+  border-color: rgb(150, 150, 150);
+  border-width: 1px;
+  border-style: solid;
+  width: 150px;
+  margin-left: 15px;
+  margin-bottom: 25px;
+  display: inline-block;
+  vertical-align: top;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.15);
+}
+
+.mimi{
+  font-size: 14px;
+  font-weight: bold;
+  margin-bottom: 8px;
+  margin-left: 5px;
+}
+
+.us-dollars{
+  color: rgb(150, 150, 150);
+  font-size: 11px;
+  margin-bottom: 8px;
+  margin-left: 5px;
+}
+
+.cart-two{
+  background-color: rgb(78, 78, 230);
+  color: white;
+  border: none;
+  font-size: 12px;
+  border-radius: 2px;
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-bottom: 5px;
+  margin-left: 5px;
+}
+
+.second-image{
+  width: 150px;
+  object-fit: contain;
+  object-position: top;
+}
+
+.div-three{
+  border-color: rgb(150, 150, 150);
+  border-width: 1px;
+  border-style: solid;
+  width: 150px;
+  margin-left: 15px;
+  margin-bottom: 25px;
+  display: inline-block;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.15);
+}
+
+.rex{
+  font-size: 14px;
+  font-weight: bold;
+  margin-bottom: 8px;
+  margin-left: 5px;
+}
+
+.us-dollars{
+  color: rgb(150, 150, 150);
+  font-size: 11px;
+  margin-bottom: 8px;
+  margin-left: 5px;
+}
+
+.cart-three{
+  background-color: rgb(78, 78, 230);
+  color: white;
+  border: none;
+  font-size: 12px;
+  border-radius: 2px;
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-bottom: 5px;
+  margin-left: 5px;
+}
+
+.third-image{
+  width: 150px;
+  object-fit: contain;
+  object-position: top;
+}
+
+.jessica{
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+  border-radius: 20px;
+  margin-left: 9px;
+  margin-top: 4px;
+  margin-bottom: 6px;
+  margin-right: 0;
+}
+
+.jessica-div{
+  display: inline-block;
+}
+
+.doll{
+  color: rgb(150, 150, 150);
+  font-size: 11px;
+  margin-bottom: 8px;
+  margin-left: 0;
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 6px;
+  width: 100px;
+  height: 20px;
+}
+
+.jessica-one{
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+  border-radius: 20px;
+  margin-left: 9px;
+  margin-top: 4px;
+  margin-bottom: 6px;
+  margin-right: 0;
+}
+
+.jessica-one-div{
+  display: inline-block;
+}
+
+.doll-one{
+  color: rgb(150, 150, 150);
+  font-size: 11px;
+  margin-bottom: 8px;
+  margin-left: 0;
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 6px;
+  width: 100px;
+  height: 20px;
+}
+
+.jessica-two{
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+  border-radius: 20px;
+  margin-left: 9px;
+  margin-top: 4px;
+  margin-bottom: 6px;
+  margin-right: 0;
+}
+
+.jessica-two-div{
+  display: inline-block;
+}
+
+.solar{
+  color: rgb(150, 150, 150);
+  font-size: 11px;
+  margin-bottom: 8px;
+  margin-left: 0;
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 6px;
+  width: 100px;
+  height: 20px;
+}
+
+.all-div{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 20px;
+  width: 200px;
+}

@@ -1,0 +1,542 @@
+.body{
+  padding-bottom: 25px;
+  padding-top: 130px;
+  background-color: ghostwhite;
+}
+.exercise12e{
+  border-style: solid;
+  border-width: 2px;
+  padding-left: 12px;
+  padding-right: 12px;
+  border-radius: 7px;
+}
+
+.general-one{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.general-two{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.general-three{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.button-one{
+  margin-top: 20px;
+  background-color: blue;
+  font-size: 14px;
+  color: white;
+  border-radius: 10px;
+  border: none;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  width: 35px;
+}
+
+.button-two{
+  margin-top: 20px;
+  background-color: blue;
+  font-size: 14px;
+  color: white;
+  border-radius: 10px;
+  border: none;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  width: 30px;
+}
+
+.button-three{
+  margin-top: 20px;
+  background-color: blue;
+  font-size: 14px;
+  color: white;
+  border-radius: 10px;
+  border: none;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  width: 30px;
+}
+
+.exercise12g{
+  padding-left: 12px;
+  padding-right: 12px;
+}
+
+.general-four{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.general-five{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.general-six{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.image-one{
+  width: 40px;
+  height: 40px;
+  border-radius: 30px;
+  object-fit: cover;
+  object-position: center;
+}
+
+.image-two{
+  width: 40px;
+  height: 40px;
+  border-radius: 30px;
+  object-fit: cover;
+  object-position: center;
+}
+
+.image-three{
+  width: 40px;
+  height: 40px;
+  border-radius: 30px;
+  object-fit: cover;
+  object-position: center;
+}
+
+.span-one{
+  font-weight: bold;
+  display: block;
+}
+
+.span-two{
+  color: gray;
+  display: block;
+}
+
+.span-three{
+  color: gray;
+  display: block;
+}
+
+.span-four{
+  font-weight: bold;
+  display: block;
+}
+
+.span-five{
+  color: gray;
+  display: block;
+}
+
+.span-six{
+  color: gray;
+  display: block;
+}
+
+.span-seven{
+  font-weight: bold;
+  display: block;
+}
+
+.span-eight{
+  color: gray;
+  display: block;
+}
+
+.span-nine{
+  color: gray;
+  display: block;
+}
+
+.seven{
+  flex: 1;
+  margin-left: 10px;
+}
+
+.nine{
+  flex: 1;
+  margin-left: 10px;
+}
+
+.eleven{
+  flex: 1;
+  margin-left: 10px;
+}
+
+.button-four{
+  background-color: rgb(65, 49, 237);
+  font-size: 14px;
+  color: white;
+  border-radius: 4px;
+  border: none;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  width: 60px;
+}
+
+.button-five{
+  background-color: rgb(65, 49, 237);
+  font-size: 14px;
+  color: white;
+  border-radius: 4px;
+  border: none;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  width: 60px;
+}
+
+.button-six{
+  background-color: rgb(65, 49, 237);
+  font-size: 14px;
+  color: white;
+  border-radius: 4px;
+  border: none;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  width: 60px;
+}
+
+.exercise12f{
+  border: none;
+  flex: 1;
+  padding-left: 8px;
+  padding-right: 8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: purple;
+  height: 60px;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+}
+
+.general-seven{
+  color: white;
+  font-weight: bold;
+}
+
+.input-one{
+  background-color: white;
+  flex: 1;
+  border-radius: 18px;
+  padding-left: 15px;
+  width: 800px;
+  max-width: 500px;
+  height: 36px;
+  border: none;
+}
+
+.button-seven{
+  border-width: 2px;
+  border-radius: 2px;
+  border-style: solid;
+  border-color: white;
+  background-color: transparent;
+  font-size: 14px;
+  color: white;
+  width: 100px;
+  height: 36px;
+}
+
+.image-four{
+  width: 40px;
+  height: 40px;
+  border-radius: 30px;
+  object-fit: cover;
+  object-position: center;
+}
+
+.image-five{
+  width: 40px;
+  height: 40px;
+  border-radius: 30px;
+  object-fit: cover;
+  object-position: center;
+}
+
+.image-six{
+  width: 40px;
+  height: 40px;
+  border-radius: 30px;
+  object-fit: cover;
+  object-position: center;
+}
+
+.image-seven{
+  width: 40px;
+  height: 40px;
+  border-radius: 30px;
+  object-fit: cover;
+  object-position: center;
+}
+
+.exercise13d{
+  border-width: 2px;
+  border-color: rgb(221, 218, 218);
+  box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.05);
+  border-radius: 4px;
+  border-style: solid;
+  padding-left: 16px;
+  padding-right: 4px;
+  padding-top: 10px;
+  padding-bottom: 30px;
+  margin-left: 5px;
+  margin-top: 10px;
+  width: 330px;
+}
+
+.exercise13d-one{
+  color: grey;
+  font-size: 13px;
+  font-family: Arial;
+}
+
+.exercise13d-two{
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+  align-items: center;
+}
+
+.exercise13d-three{
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+  align-items: center;
+}
+
+.exercise13d-four{
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+  align-items: center;
+  
+}
+
+.two-one-one{
+  font-weight: bold;
+  font-family: Arial;
+  font-size: 15px;
+}
+
+.two-one-two{
+  color: grey;
+  font-size: 13px;
+  font-family: Arial;
+}
+
+.sub-two{
+  margin-left: 10px;
+}
+
+.sub-four{
+  margin-left: 10px;
+}
+
+.sub-six{
+  margin-left: 10px;
+}
+
+.sub-two-one{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.sub-two-three{
+  font-weight: bold;
+  font-family: Arial;
+  font-size: 13px;
+  margin-top: 2px;
+}
+
+.sub-two-two{
+  color: grey;
+  font-size: 13px;
+  font-family: Arial;
+  margin-top: 2px;
+}
+
+.exercise13d-three{
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+  align-items: center;
+}
+
+.exercise13f{
+  margin-top: 20px;
+}
+
+.exercise13f-one{
+  display: flex;
+  flex-direction: row;
+}
+
+.sub-eight{
+  margin-left: 10px;
+}
+
+.sub-eight-one{
+  display: flex;
+  flex-direction: row;
+}
+
+.sub-eight-one-one{
+  font-weight: bold;
+  font-family: Arial;
+}
+
+.sub-eight-one-two{
+  color: gray;
+  font-family: Arial;
+  margin-left: 3px;
+}
+
+.sub-eight-two{
+  font-family: Arial;
+  line-height: 20px;
+  width: 350px;
+  font-weight: 500;
+  font-size: 15px;
+  margin-top: 3px;
+}
+
+.exercise13f-two{
+  display: flex;
+  margin-top: 15px;
+  margin-left: 50px;
+}
+
+.exercise13f-two-one{
+  width: 92px;
+  height: 80px;
+  background-color: rgb(222, 218, 218);
+  border-radius: 18px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: rgb(222, 218, 218);
+}
+
+.exercise13f-two-two{
+  width: 235px;
+  height: 80px;
+  font-weight: bold;
+  text-align: left;
+  padding-left: 25px;
+  background-color: transparent;
+  border-radius: 18px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: rgb(222, 218, 218);
+}
+
+.span-ten{
+  display: block;
+  color: gray;
+  font-family: Arial;
+  font-weight: 0;
+  text-align: left;
+  margin-bottom: 4px;
+}
+
+.emergency{
+  width: 65px;
+  height: 80px;
+  background-color: rgb(222, 218, 218);
+  border-style: solid;
+  border-width: 2px;
+  border-color: rgb(222, 218, 218);
+  margin-left: -50px;
+  margin-right: -15px;
+}
+
+.image{
+  width: 40px;
+  height: 40px;
+  border-radius: 30px;
+  object-fit: cover;
+  object-position: center;
+}
+
+.exercise14e{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: white;
+  align-items: center;
+  position: fixed;
+  top: 60px;
+  left: 0;
+  right: 0;
+  height: 60px;
+  padding-left: 70px;
+  padding-right: 60px;
+}
+
+.exercise14e-one{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.exercise14e-two{
+  background-color: rgb(65, 49, 237);
+  font-size: 14px;
+  color: white;
+  border-radius: 4px;
+  border: none;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  width: 80px;
+}
+
+.exercise14e-three{
+  background-color: rgb(245, 241, 241);
+  font-size: 14px;
+  color: black;
+  border-radius: 4px;
+  border: none;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  width: 70px;
+  margin-left: 10px;
+}
+
+.exercise14e-one-two{
+  margin-left: 10px;
+  font-family: Arial;
+  font-size: 13px;
+  font-weight: bold;
+}

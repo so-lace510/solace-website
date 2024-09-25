@@ -1,0 +1,59 @@
+.bt-a{
+  color: rgb(0, 113, 133);
+  transition: color 0.15;
+ }
+
+ .bt-a:hover{
+   color: rgba(167, 2, 2, 0.646);
+ }
+
+.nb-rs{
+ font-size: 20px;
+}
+
+.in-stock{
+ color: rgb(0, 118, 0);
+}
+
+.addtocart-button{
+ background-color: rgb(255, 218, 36);
+ color: black;
+ border: none;
+ height: 30px;
+ width: 110px;
+ border-radius: 16px;
+ cursor: pointer;
+ transition: background-color 0.15s,
+ color 0.15s;
+}
+
+.addtocart-button:hover{
+ background-color: rgb(248, 206, 0);
+ color: black;
+}
+
+.addtocart-button:active{
+ opacity: 0.7;
+}
+
+.buynow-button{
+ background-color: rgb(255, 164, 28);
+ color: black;
+ border: none;
+ height: 30px;
+ width: 110px;
+ border-radius: 16px;
+ cursor: pointer;
+ margin-left: 8px;
+ transition: background-color 0.15,
+ color 0.15s;
+}
+
+.buynow-button:hover{
+ background-color: rgb(244, 146, 0);
+ color: black;
+}
+
+.buynow-button:active{
+ opacity: 0.7;
+}

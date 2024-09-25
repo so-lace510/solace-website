@@ -1,0 +1,141 @@
+.pagination{
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-width: 1px;
+  border-radius: 2px;
+}
+
+.page{
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-width: 1px;
+  border-radius: 2px;
+  margin-left: 10px;
+}
+
+.one{
+  margin-left: 10px;
+}
+
+.two{
+  margin-left: 8px;
+}
+
+.three{
+  margin-left: 8px;
+}
+
+.four{
+  margin-left: 8px;
+}
+
+.five{
+  margin-left: 8px;
+}
+
+.stretch{
+  background-color: green;
+  color: white;
+  border: none;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-left: 8px;
+  transition: padding-left 1s,
+  padding-right 1s,
+  padding-top 1s,
+  padding-bottom 1s;
+}
+
+.stretch:hover{
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  
+}
+
+.shadow{
+  background-color: green;
+  color: white;
+  border: none;
+  padding-left: 13px;
+  padding-right: 13px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  font-size: 15px;
+  margin-left: 8px;
+  transition: box-shadow 0.15s;
+}
+
+.shadow:active{
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.15);
+}
+
+.one-shadow{
+  background-color: green;
+  color: white;
+  border: none;
+  padding-left: 13px;
+  padding-right: 13px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  font-size: 15px;
+  margin-left: 10px;
+  transition: padding-left 0.15s,
+  padding-right 0.15s,
+  margin-left 0.15s;
+}
+
+.one-shadow:hover{
+  padding-left: 16px;
+  padding-right: 19px;
+  margin-left: 5px;
+}
+
+.two-button{
+  background-color: green;
+  color: white;
+  border: none;
+  padding-left: 13px;
+  padding-right: 13px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  font-size: 15px;
+  margin-left: 10px;
+  transition: padding-left 0.15s,
+  padding-right 0.15s,
+  margin-left 0.15s;
+}
+
+.two-button:hover{
+  padding-left: 16px;
+  padding-right: 19px;
+  margin-left: 5px;
+}
+
+.three-button{
+  background-color: green;
+  color: white;
+  border: none;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  font-size: 15px;
+  margin-left: 10px;
+  transition: padding-left 0.15s,
+  padding-right 0.15s,
+  margin-left 0.15s;
+}
+
+.three-button:hover{
+  padding-left: 19px;
+  padding-right: 22px;
+  margin-left: 5px;
+}

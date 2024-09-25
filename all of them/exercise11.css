@@ -1,0 +1,232 @@
+.div-one{
+  display: grid;
+  grid-template-columns: 200px 75px;
+}
+
+.div-two{
+  display: grid;
+  grid-template-columns: 50px 1fr 75px;
+}
+
+.div-three{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  column-gap: 20px;
+  row-gap: 10px;
+}
+
+.sub-div-one{
+  background-color: lightblue;
+}
+
+.sub-div-two{
+  background-color: lightpink;
+}
+
+.sub-div-three{
+  background-color: lightblue;
+  margin-top: 10px;
+}
+
+.sub-div-four{
+  background-color: lightpink;
+  margin-top: 10px;
+}
+
+.sub-div-five{
+  background-color: lightblue;
+  margin-top: 10px;
+}
+
+.one{
+  background-color: lightpink;
+  margin-top: 10px;
+}
+
+.two{
+  background-color: lightpink;
+  margin-top: 10px;
+}
+
+.three{
+  background-color: lightpink;
+  margin-top: 10px;
+}
+
+.four{
+  background-color: lightpink;
+  margin-top: 10px;
+}
+
+.five{
+  background-color: lightpink;
+  margin-top: 10px;
+}
+
+.six{
+  background-color: lightpink;
+  margin-top: 10px;
+}
+
+.seven{
+  background-color: lightpink;
+  margin-top: 10px;
+}
+
+.eight{
+  background-color: lightpink;
+  margin-top: 10px;
+}
+
+.div-four{
+  display: flex;
+  flex-direction: row;
+  margin-top: 10px;
+}
+
+.nine{
+  width: 200px;
+  background-color: lightblue;
+}
+
+.ten{
+  width: 75px;
+  background-color: lightpink;
+}
+
+.div-five{
+  display: flex;
+  flex-direction: row;
+  margin-top: 10px;
+}
+
+.eleven{
+  width: 50px;
+  background-color: lightblue;
+}
+
+.twelve{
+  flex: 1;
+  background-color: lightpink;
+}
+
+.thirteen{
+  width: 75px;
+  background-color: lightblue;
+}
+
+.div-six{
+  display: flex;
+  flex-direction: row;
+  margin-top: 10px;
+  justify-content: space-between;
+}
+
+.fourteen{
+  background-color: lightpink;
+}
+
+.fifteen{
+  background-color: lightpink;
+}
+
+.sixteen{
+  background-color: lightblue;
+}
+
+.seventeen{
+  background-color: lightpink;
+}
+
+.div-seven{
+  display: flex;
+  flex-direction: row;
+  margin-top: 10px;
+  justify-content: space-between;
+  align-items: center;
+  height: 50px;
+  border-color: gray;
+  border-width: 2px;
+  border-style: solid;
+}
+
+.eighteen{
+  background-color: lightpink;
+  height: 20px;
+}
+
+.nineteen{
+  background-color: lightpink;
+  height: 20px;
+}
+
+.div-eight{
+  display: flex;
+  flex-direction: row;
+  height: 50px;
+  margin-top: 10px;
+}
+
+.twenty{
+  background-color: lightblue;
+  width: 100px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.twenty-one{
+  background-color: lightpink;
+  width: 200px;
+}
+
+.sub-one{
+  background-color: black;
+  color: white;
+}
+
+.div-nine{
+  display: flex;
+  flex-direction: row;
+  height: 50px;
+  margin-top: 10px;
+}
+
+.twenty-two{
+  background-color: lightpink;
+  width: 100px;
+}
+
+.twenty-three{
+  width: 200px;
+  background-color: lightblue;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.sub-two{
+  margin-top: 2px;
+}
+
+.sub-three{
+  margin-top: 19px;
+  background-color: black;
+  color: white;
+  height: 18px;
+}
+
+.row-two{
+  background-color: black;
+  color: white;
+}
+
+.div-ten{
+  background-color: black;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  color: white;
+}
+
